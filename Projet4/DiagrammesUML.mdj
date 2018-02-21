@@ -12,16 +12,6 @@
 			"name": "Model",
 			"ownedElements": [
 				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"visible": true,
-					"defaultDiagram": true
-				},
-				{
 					"_type": "UMLUseCaseDiagram",
 					"_id": "AAAAAAFhfyWPCwnC/XI=",
 					"_parent": {
@@ -50321,8 +50311,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 374,
-									"top": 286,
+									"left": 376,
+									"top": 295,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -50355,8 +50345,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 334,
-									"top": 294,
+									"left": 336,
+									"top": 303,
 									"width": 55.65625,
 									"height": 13,
 									"autoResize": false,
@@ -50390,8 +50380,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 399,
-									"top": 271,
+									"left": 401,
+									"top": 280,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
