@@ -8,7 +8,7 @@ Analyse de la demande du client (Cahier des charges : consigne) à mettre en for
 
 Le dossier "Projet4" comprend :
 
-  - 1 fichier des diagrammes UML (cas d'utilisations (général), 3 cas d'utilisation spécifiques aux 3 packages, diagramme de package, diagramme d'activité décrivant le cycle de vie d'une commande (commande, préparation, livraison))
+  - 1 fichier des diagrammes UML (cas d'utilisations (général), 3 cas d'utilisation spécifiques aux 3 packages, diagramme de package, diagramme d'activité décrivant le cycle de vie d'une commande (commande, préparation, livraison)) [Créé avec StarUML]
 
   - 1 dossier "Fiches descriptives" regroupant les descriptions textuelles des 17 cas d'utilisation 
   
