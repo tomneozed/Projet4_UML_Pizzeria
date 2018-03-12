@@ -10,4 +10,6 @@ Le dossier "Projet4" comprend :
 
   - 1 fichier des diagrammes UML (cas d'utilisations (général), 3 cas d'utilisation spécifiques aux 3 packages, diagramme de package, diagramme d'activité décrivant le cycle de vie d'une commande (commande, préparation, livraison))
 
-  - 1 dossier regroupant les descriptions textuelles des 17 cas d'utilisation 
+  - 1 dossier "Fiches descriptives" regroupant les descriptions textuelles des 17 cas d'utilisation 
+  
+  - 1 dossier "Rapport" dans lequel se trouve le rapport complet "Specifications Fonctionnelles" ainsi que la "Solution fonctionnelle et technique" du projet (il contient aussi des captures d'écran des différents diagrammes sous le format JPG)
